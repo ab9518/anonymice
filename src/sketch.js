@@ -31,7 +31,7 @@ let newGlowRadius;
 let makeGifCallback;
 let isMakingGIF = false;
 
-exports.numberSubmitted = (p5, canvasParentRef, props) => {
+export const numberSubmitted = (p5, canvasParentRef, props) => {
   const mouseId = props.mouseNum;
   const bgColor = props.bgColor.length > 0 ? props.bgColor : "#000000";
   const glowRadius = props.glowRadius.length > 0 ? props.glowRadius : "50";
@@ -47,7 +47,7 @@ exports.numberSubmitted = (p5, canvasParentRef, props) => {
 }
 
 
-exports.mouseSetup = (p5, canvasParentRef) => {
+export const mouseSetup = (p5, canvasParentRef) => {
   p5.createCanvas(240, 240).parent(canvasParentRef);
   
   p5.loadImage(`https://raw.githubusercontent.com/jozanza/anonymice-images/main/${YOUR_MOUSE_ID}.png`, image => {
@@ -62,13 +62,13 @@ exports.mouseSetup = (p5, canvasParentRef) => {
   p5.frameRate(60)
 }
 
-exports.makeGIF = (p5, callback) => {
+export const makeGIF = (p5, callback) => {
   makeGifCallback = callback;
 }
 
 // TODO: need a way to pull traits into the JS
 
-exports.mouseDraw = (p5) => {
+export const mouseDraw = (p5) => {
   p5.clear();
   p5.noSmooth();
 
