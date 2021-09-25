@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/anonymice/static/css/main.f4b66220.chunk.css",
+    "main.js": "/anonymice/static/js/main.c294308d.chunk.js",
+    "main.js.map": "/anonymice/static/js/main.c294308d.chunk.js.map",
+    "runtime-main.js": "/anonymice/static/js/runtime-main.1718bed6.js",
+    "runtime-main.js.map": "/anonymice/static/js/runtime-main.1718bed6.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/anonymice/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.e1fe043d.chunk.js": "/anonymice/static/js/2.e1fe043d.chunk.js",
+    "static/js/2.e1fe043d.chunk.js.map": "/anonymice/static/js/2.e1fe043d.chunk.js.map",
+    "static/js/3.6b16c807.chunk.js": "/anonymice/static/js/3.6b16c807.chunk.js",
+    "static/js/3.6b16c807.chunk.js.map": "/anonymice/static/js/3.6b16c807.chunk.js.map",
+    "index.html": "/anonymice/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/anonymice/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.f4b66220.chunk.css.map": "/anonymice/static/css/main.f4b66220.chunk.css.map",
+    "static/js/2.e1fe043d.chunk.js.LICENSE.txt": "/anonymice/static/js/2.e1fe043d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/anonymice/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1718bed6.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.e1fe043d.chunk.js",
+    "static/css/main.f4b66220.chunk.css",
+    "static/js/main.c294308d.chunk.js"
+  ]
+}

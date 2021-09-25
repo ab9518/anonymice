@@ -1,0 +1,101 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+  Copyright (c) 2018 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/*! no static exports found */
+
+/*!*********************!*\
+    !*** external "p5" ***!
+    \*********************/
+
+/*!**********************!*\
+    !*** ./src/event.js ***!
+    \**********************/
+
+/*!**********************!*\
+    !*** ./src/index.js ***!
+    \**********************/
+
+/*!******************************!*\
+    !*** ./src/p5.createLoop.js ***!
+    \******************************/
+
+/*!*****************************************!*\
+    !*** ./node_modules/gif.js/dist/gif.js ***!
+    \*****************************************/
+
+/*!**********************************************!*\
+    !*** ./node_modules/createLoop/src/event.js ***!
+    \**********************************************/
+
+/*!**********************************************!*\
+    !*** ./node_modules/createLoop/src/index.js ***!
+    \**********************************************/
+
+/*!************************************************!*\
+    !*** ./node_modules/createLoop/src/gifLoop.js ***!
+    \************************************************/
+
+/*!**************************************************!*\
+    !*** ./node_modules/createLoop/src/noiseLoop.js ***!
+    \**************************************************/
+
+/*!***************************************************!*\
+    !*** ./node_modules/createLoop/src/createLoop.js ***!
+    \***************************************************/
+
+/*!*****************************************************!*\
+    !*** ./node_modules/simplex-noise/simplex-noise.js ***!
+    \*****************************************************/
+
+/*!******************************************************!*\
+    !*** ./node_modules/createLoop/src/animationLoop.js ***!
+    \******************************************************/
+
+/*!********************************************************!*\
+    !*** ./node_modules/createLoop/src/gifWorkerScript.js ***!
+    \********************************************************/
+
+/** @license React v0.20.2
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
